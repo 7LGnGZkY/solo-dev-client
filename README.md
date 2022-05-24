@@ -1,1 +1,1 @@
-# solo-dev-client
+# Solo Project
